@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 area_of_a_triangle_test.py"
+run = "python3 fahrenheit_to_celsius_test.py"
